@@ -16,3 +16,5 @@ alt="\begin{equation*}
 
 詳細は memo_backtrack.pdf に記している。また、実行例として、figure_objective_function.pdf も一緒にアップロードしている。
 backtrack.py あるいは backtrack.ipynb を実行すると得られる。
+
+（最終更新：2021/9/20）
