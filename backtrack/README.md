@@ -14,4 +14,5 @@ alt="\begin{equation*}
 本Githubには、東京大学工学教程『最適化と変分法』にのっている例を実装した例を示す。
 レポートを作成した当時と同じ手法を使いつつ、プログラミング演習や卒業研究、現在の研究で自然と身についたプログラミングスキルをもとに、スッキリしたコードを作成した。
 
-詳細は memo_backtrack.pdf に記している。また、実行例として、
+詳細は memo_backtrack.pdf に記している。また、実行例として、figure_objective_function.pdf も一緒にアップロードしている。
+backtrack.py あるいは backtrack.ipynb を実行すると得られる。
