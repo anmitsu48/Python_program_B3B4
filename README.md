@@ -25,6 +25,7 @@ https://note.com/anmitsu48/n/n4a498bf36a5c
 
 ## 2：dual
 過去に「双対上昇法」を実装する課題がレポート課題で出されました。
+
 この内容に関連するnote記事：https://note.com/anmitsu48/n/ne47459afc550
 
 （最終更新：2022/2/12）
